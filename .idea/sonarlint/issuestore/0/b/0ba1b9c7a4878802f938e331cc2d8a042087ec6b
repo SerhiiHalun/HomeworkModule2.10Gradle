@@ -1,0 +1,8 @@
+
+p
+java:S1481	"-Remove this unused "timeZone" local variable.(ŸÑÉ”8ÒåÃÀŒ2J$0d136ea4-a185-47d5-b1da-0deda78c65aa
+r	java:S106"+Replace this use of System.out by a logger.(ì­øúÿÿÿÿ8§–ÄÀŒ2J$dfd08930-650d-4a19-9b41-3cf29567d712
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8óÄÀŒ2J$6c00ce93-c67a-40a0-8304-33fa9c135cf8
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8óÄÀŒ2J$b78aa8e0-8c50-455e-94a2-deea96754ef7
